@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<html lang="en" xml:lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <style>
+    @font-face {
+      font-family: 'DejaVu Sans Mono';
+      src: url('DejaVuSansMono-webfont.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+    }
+    body {
+      background-color: rgb(58, 45, 65);
+
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+
+      line-height: 110%;
+      color: rgb(130, 253, 237);
+      font-family: "Menlo", "DejaVu Sans Mono";
+      font-size: 75%;
+    }
+    game_area {
+      display: block;
+      white-space: pre;
+    }
+  </style>
+</head>
+<body onload="spaghetti.inertia()">
+  <game_area id="game_area"></game_area>
+</body>
+<script src="input.js"></script>
+<script src="luz.js"></script>
+<script src="background.js"></script>
+<script src="cat.js"></script>
+<script src="spaghetti.js"></script>
+</html>
