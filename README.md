@@ -1,6 +1,6 @@
 # spaghetti
 
-##Concept
+## Concept
 
 This game is a loveletter to javascript. It was written vanilla, and runs in the browser with no need for a server or internet connection. All you have to do is download the folder and double click the index file.
 
