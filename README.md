@@ -8,6 +8,8 @@ You're a cat with a fork. Use the arrow keys to move, "z" is jump, "x" is stab, 
 
 The cat's name is spaghetti. He's named after the style of code his world was written in (:
 
+Try it out! https://mbartoldus.github.io/spaghetti/
+
 ## How it works
 
 // under construction
